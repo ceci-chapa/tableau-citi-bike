@@ -1,6 +1,6 @@
 # The New York Citi Bike Data
 
-Tableau workbook can be found [here](https://public.tableau.com/views/NewYorkCitiBikeAnalysis_16360854879020/BikeCounts-Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+Tableau workbook can be found [here](https://public.tableau.com/views/NewYorkCitiBikeAnalysis_16360854879020/NYCBStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ---
 
